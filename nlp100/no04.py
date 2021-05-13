@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 04. 元素記号
 "Hi He Lied Because Boron Could Not Oxidize Fluorine. New Nations Might Also Sign Peace Security Clause. Arthur King Can."

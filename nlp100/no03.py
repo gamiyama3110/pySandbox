@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 03. 円周率
 "Now I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics."という文を単語に分解し，
